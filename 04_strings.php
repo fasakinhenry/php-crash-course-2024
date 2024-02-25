@@ -1,7 +1,11 @@
 <?php
 
 // Create simple string
+$string = 'Hello Henry';
+$string = "Hello Henry";
 
+echo $string.'<br/>';
+echo $string2.'<br/>';
 // String concatenation
 
 // String functions
